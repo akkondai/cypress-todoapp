@@ -14,8 +14,8 @@ Before running the tests, ensure that you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/akkondai/cypress-todo-app.git
-   cd cypress-todo-app
+   git clone https://github.com/akkondai/cypress-todoapp.git
+   cd cypress-todoapp
    ```
 
 2. **Install dependencies using npm**:
